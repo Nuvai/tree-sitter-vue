@@ -1,3 +1,20 @@
 /build
 /node_modules
 /target/
+
+# Auto-added by Nuvai session-start-governance-check
+.nuvai/reports
+.nuvai/local/
+.DS_Store
+dist/
+.next/
+*.tsbuildinfo
+.nuvai/active-context.yaml
+.nuvai/active-prompts/
+.nuvai/debug/
+.nuvai/bug-rc/
+.nuvai/agent-progress/
+.nuvai/issues.jsonl
+.nuvai/discussions.jsonl
+.nuvai/reviews/
+.nuvai/audits
